@@ -67,8 +67,8 @@ The schedule is subject to change per class needs and desires.
 | Wed - Feb 10 | [Recommendation Systems](16_recommendation)             |                                |         |
 | Mon - Feb 15 | **No Class**                                            |                                |         |
 | Wed - Feb 17 | Project Preparation Day                                 | [milestone4](extra/project.md) | Mar 2   |
-| Mon - Feb 22 | Integrating ML & Web Technologies                       |                                |         |
-| Wed - Feb 24 | Neural Networks                                         |                                |         |
+| Mon - Feb 22 | [Integrating ML & Web Technologies](18_webtech)         |                                |         |
+| Wed - Feb 24 | [Neural Networks](19_neural)                            |                                |         |
 | Mon - Feb 29 | Map Reduce                                              |                                |         |
 | Wed - Mar 2  | TBD                                                     |                                |         |
 | Mon - Mar 7  | Final Presentations                                     |                                |         |
